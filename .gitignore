@@ -1,0 +1,6 @@
+# Ignore les fichiers temporaires
+*.log
+*.tmp
+
+# Ne pas ignorer le dossier capture
+!capture/
